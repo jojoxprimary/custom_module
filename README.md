@@ -1,2 +1,2 @@
 # custom_module
-first odoo custom module
+in4 land replicated odoo module 
